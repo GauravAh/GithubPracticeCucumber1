@@ -1,8 +1,12 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="Automation Suite">
-    <test name="Automation Test">
+    <test name="Automation Test fffff">
         <classes>
+<<<<<<< HEAD
             <class name="ffffff"></class>
+=======
+            <class name="Automagg"></class>
+>>>>>>> 89b0be57b2eb87f10dcbf34575ee1c15cc1d2689
         </classes>
     </test>
 </suite>
