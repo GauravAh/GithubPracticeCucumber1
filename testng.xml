@@ -1,6 +1,6 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="Automation Suite">
-    <test name="Automation Test">
+    <test name="Automation Test fffff">
         <classes>
             <class name="Automagg"></class>
         </classes>
