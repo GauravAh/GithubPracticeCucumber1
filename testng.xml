@@ -2,7 +2,7 @@
 <suite name="Automation Suite">
     <test name="Automation Test">
         <classes>
-            <class name="Automa"></class>
+            <class name=""></class>
         </classes>
     </test>
 </suite>
